@@ -1,2 +1,2 @@
-# capital-dex-core-smart-contracts
-Capital Dex Core smart contracts
+# capital-dex-core-audit
+Security audit repo for Capital Dex smart contracts
