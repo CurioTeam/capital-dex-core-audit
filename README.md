@@ -1,6 +1,4 @@
-# Security audit: Capital Dex smart contracts
-
-> Security audit repo for Capital Dex smart contracts
+# Capital Dex smart contracts
 
 Capital DEX - a decentralized legally protected exchange primarily for security Car Tokens.
 
